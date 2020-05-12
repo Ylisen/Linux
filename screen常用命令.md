@@ -4,8 +4,8 @@
 `rpm -qa|grep screen`
 
 #### 1、创建 screen 终端
-`screen`
-指定作业名称
+`screen`      
+ 指定作业名称
 `screen -S jobname`
 
 #### 2、离开screen终端
